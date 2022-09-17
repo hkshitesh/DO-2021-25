@@ -5,5 +5,7 @@ public class MasterClass {
 		hks.sayHello();
 		abcd ob2 = new abcd();
 		ob2.f1();
+		Deepanshu obx=new Deepanshu();
+		obx.climbStairs(45);
 	}
 }
