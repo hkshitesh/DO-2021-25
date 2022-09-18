@@ -5,5 +5,9 @@ public class MasterClass {
 		hks.sayHello();
 		abcd ob2 = new abcd();
 		ob2.f1();
+		Shambhaveee_class ss = new Shambhavee_class();
+		int[] numbers;
+		numbers = ss.input_digit();
+		ss.checking_digit(numbers);
 	}
 }
