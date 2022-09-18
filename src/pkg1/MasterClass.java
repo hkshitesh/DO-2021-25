@@ -5,5 +5,8 @@ public class MasterClass {
 		hks.sayHello();
 		abcd ob2 = new abcd();
 		ob2.f1();
+
+		aman ob16=new aman();
+		ob16.day();
 	}
 }
