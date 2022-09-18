@@ -19,5 +19,5 @@ public class Fibonacci {
         Fibonacci fb = new Fibonacci();
         fb.printFibonacci();
     }
-}
 
+}
