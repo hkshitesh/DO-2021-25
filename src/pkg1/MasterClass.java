@@ -5,5 +5,7 @@ public class MasterClass {
 		hks.sayHello();
 		abcd ob2 = new abcd();
 		ob2.f1();
+		Avika_class ss = new Avika_class();
+		ss.f1();
 	}
 }
